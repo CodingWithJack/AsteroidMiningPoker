@@ -16,7 +16,7 @@ from scipy.optimize import curve_fit
 
 login = 'change_me'  # Login to the ssh serverkey
 password = 'my_password'  # Password for the ssh server
-my_name = 'Change_me'  # Your name in the game
+my_name = 'Change_me'  # Your name in the game (case sensitive)
 games = {'prospector': 201, 'hearst': 300}  # Names of games and no. rounds
 # For daily wins and get_daily logs, the start dates for each game are needed
 dates = {'prospector': dt.date(2018, 10, 10), 'hearst': dt.date(2019, 1, 10)}
