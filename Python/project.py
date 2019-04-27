@@ -757,8 +757,8 @@ def fail_submission(x, a, b, c):
 # Most likely failure tech per round
 def failure_tech():
     """
-    Plots and displays a graph of the estimated 'Mission Failure' tech value
-    for all 200 rounds.
+    Plots a graph showing the estimated 'Mission Failure' tech value for
+    201 rounds.
     Graph is saved in local directory as 'mission_failure_tech.pdf'.
     """
     x_axis = np.linspace(1, 201, 201)
