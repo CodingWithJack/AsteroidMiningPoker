@@ -308,7 +308,7 @@ class StudentStrategy(Strategy):
         e_val_nt = (reward+5) * (1 - chance[0])
         # Is it worth launching (always launch on last round)?
         # TWO CALCULATIONS
-        if self.turn == turns or (e_val > e_val_nt and reward > bar):
+        if (self.turn == turns and e_val > 5) or (e_val > e_val_nt and reward > bar):
             launch = True
 
         # Desperate bankruptcy advoidance
