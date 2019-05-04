@@ -29,7 +29,7 @@ class Strategy(object):
 
 class StudentStrategy(Strategy):
     """
-    The cartel will succeed.
+    The cooperation will succeed.
     But not as much as me.
     """
 
