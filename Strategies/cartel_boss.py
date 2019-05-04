@@ -1,8 +1,8 @@
 """
-The cartel strategy.
+The cooperation boss strategy.
 """
 
-cartel_members = ['MyName', 'Member1', 'Member2']
+cooperation_members = ['MyName', 'Member1', 'Member2']
 
 
 class Strategy(object):
@@ -34,23 +34,23 @@ class StudentStrategy(Strategy):
     """
 
     def bid(self, private, public):
-        # Default cartel options
+        # Default cooperation options
         launch = False
         bid = 1
-        # Finds players in the cartel left
-        players, cartel = [], []
+        # Finds players in the cooperation left
+        players, cooperation = [], []
         for i in public['players']:
             if public['players'][i]['bankroll'] > 0:
                 players.append(i)
-                if i in cartel_members:
-                    cartel.append(i)
-        cartel.sort()
-        if len(players) > len(cartel):
-            # Regular play, every cartel member takes turns to launch
-            if public['round'] % len(cartel) == cartel.index(private['name']):
+                if i in cooperation_members:
+                    cooperation.append(i)
+        cooperation.sort()
+        if len(players) > len(cooperation):
+            # Regular play, every cooperation member takes turns to launch
+            if public['round'] % len(cooperation) == cooperation.index(private['name']):
                 launch = True
         else:
-            # CARTEL MODE ACTIVATED
+            # cooperation MODE ACTIVATED
             bid = 0
             if public['auction_round'] == 100:
                 launch = True  # All members the same therefore 1/3 of spoils
@@ -63,10 +63,10 @@ class StudentStrategy(Strategy):
                 launch = True
                 bid = 2
             if public['auction_round'] >= 7:
-                # Prevents bankruptcy is another cartel member quits
+                # Prevents bankruptcy is another cooperation member quits
                 bid = 0
         else:
-            # CARTEL MODE CHANGES - takes 100% of profits if only cartel left.
+            # cooperation MODE CHANGES - takes 100% of profits if only cartel left.
             if public['auction_round'] == 99:
                 launch = True
         # Returns actions to take
