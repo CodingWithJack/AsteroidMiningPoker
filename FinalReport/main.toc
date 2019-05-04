@@ -1,0 +1,32 @@
+\babel@toc {english}{}
+\contentsline {section}{Declaration}{i}{section*.1}
+\contentsline {section}{Acknowledgements}{ii}{section*.2}
+\contentsline {section}{Contents}{iii}{section*.3}
+\contentsline {section}{List of Abbreviations}{iv}{section*.5}
+\contentsline {section}{Abstract}{v}{section*.5}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}The Game}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Aims and Objectives}{6}{subsection.1.3}
+\contentsline {section}{\numberline {2}Theory / Methods}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Data Collection}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Theory Behind Strategy}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Development of Strategy}{11}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Analysis Code Theory}{14}{subsection.2.4}
+\contentsline {section}{\numberline {3}Analysis}{15}{section.3}
+\contentsline {subsection}{\numberline {3.1}Using Data to Understand the Game}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Features Discovered Through Analysis}{20}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Analysis of Strategies}{21}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}The Cooperation Experiment}{21}{subsection.3.4}
+\contentsline {section}{\numberline {4}Findings}{24}{section.4}
+\contentsline {subsection}{\numberline {4.1}Final Jersey Scores}{25}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Suggested Improvements to the Strategy}{26}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Limitations of the Model}{26}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Applying the Model to Asteroid Mining}{27}{subsection.4.4}
+\contentsline {section}{\numberline {5}Conclusion}{28}{section.5}
+\contentsline {section}{\numberline {6}References}{30}{section.6}
+\contentsline {section}{\numberline {7}Appendices}{32}{section.7}
+\contentsline {subsection}{A.\hspace {0.6cm} The Python Program}{32}{section*.36}
+\contentsline {subsection}{B.\hspace {0.6cm} Strategies}{33}{section*.37}
+\contentsline {subsection}{C.\hspace {0.6cm} Data Visualizations}{35}{section*.42}
+\contentsline {subsection}{D.\hspace {0.6cm} Key Result Enlarged}{36}{section*.43}

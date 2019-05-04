@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+
+\bibitem{myerson2013game}
+R.~B. Myerson, {\em Game theory}.
+\newblock Harvard university press, 2013.
+
+\bibitem{nash1951non}
+J.~Nash, ``Non-cooperative games,'' {\em Annals of mathematics}, pp.~286--295,
+  1951.
+
+\bibitem{bicchieri1997dynamics}
+C.~Bicchieri, R.~Jeffrey, R.~C. Jeffrey, B.~Skyrms, E.~W. Adams, P.~Diaconis,
+  E.~W.~L. Harper, J.~Harsanyi, P.~Suppes, {\em et~al.}, {\em The dynamics of
+  norms}.
+\newblock Cambridge University Press, 1997.
+
+\bibitem{Strategy8:online}
+``Strategy in game theory - game theory .net.''
+  \url{http://www.gametheory.net/dictionary/PureStrategy.html}.
+\newblock (Accessed on 05/01/2019).
+
+\bibitem{monroe2018ai}
+D.~Monroe, ``Ai holds the better hand,'' {\em Communications of the ACM},
+  vol.~61, no.~9, pp.~14--16, 2018.
+
+\bibitem{lebrun1996existence}
+B.~Lebrun, ``Existence of an equilibrium in first price auctions,'' {\em
+  Economic Theory}, vol.~7, no.~3, pp.~421--443, 1996.
+
+\bibitem{OuterSpaceTreaty}
+U.~Nations, ``Treaty on principles governing the activities of states in the
+  exploration and use of outer space, including the moon and other celestial
+  bodies.'' \url{http://disarmament.un.org/treaties/t/outer_space/text}.
+\newblock (Accessed on 04/18/2019).
+
+\bibitem{sonter1997technical}
+M.~J. Sonter, ``The technical and economic feasibility of mining the near-earth
+  asteroids,'' {\em Acta Astronautica}, vol.~41, no.~4-10, pp.~637--647, 1997.
+
+\bibitem{screpanti2005outline}
+E.~Screpanti and S.~Zamagni, {\em An outline of the history of economic
+  thought}.
+\newblock Oxford University Press on Demand, 2005.
+
+\bibitem{coopGame}
+M.~Shor, ``Non-cooperative game.''
+  http://www.gametheory.net/dictionary/Non-CooperativeGame.html.
+\newblock Accessed: 2019-04-26.
+
+\bibitem{yannakakis2013player}
+G.~N. Yannakakis, P.~Spronck, D.~Loiacono, and E.~Andr{\'e}, ``Player
+  modeling,'' {\em Artificial and Computational Intelligence in Games}, p.~45,
+  2013.
+
+\bibitem{browne2012survey}
+C.~B. Browne, E.~Powley, D.~Whitehouse, S.~M. Lucas, P.~I. Cowling,
+  P.~Rohlfshagen, S.~Tavener, D.~Perez, S.~Samothrakis, and S.~Colton, ``A
+  survey of monte carlo tree search methods,'' {\em IEEE Transactions on
+  Computational Intelligence and AI in games}, vol.~4, no.~1, pp.~1--43, 2012.
+
+\bibitem{baier2010power}
+H.~Baier and P.~D. Drake, ``The power of forgetting: Improving the
+  last-good-reply policy in monte carlo go,'' {\em IEEE Transactions on
+  Computational Intelligence and AI in Games}, vol.~2, no.~4, pp.~303--309,
+  2010.
+
+\bibitem{kotz2004continuous}
+S.~Kotz, N.~Balakrishnan, and N.~L. Johnson, {\em Continuous multivariate
+  distributions, Volume 1: Models and applications}, vol.~1.
+\newblock John Wiley \& Sons, 2004.
+
+\bibitem{813462}
+K.~Moo, ``finding the pdf of the square of another pdf.'' Mathematics Stack
+  Exchange.
+\newblock URL:https://math.stackexchange.com/q/813462 (version: 2014-05-29).
+
+\bibitem{forbes2011statistical}
+C.~Forbes, M.~Evans, N.~Hastings, and B.~Peacock, {\em Statistical
+  distributions}.
+\newblock John Wiley \& Sons, 2011.
+
+\bibitem{axelrod1980effective}
+R.~Axelrod, ``Effective choice in the prisoner's dilemma,'' {\em Journal of
+  conflict resolution}, vol.~24, no.~1, pp.~3--25, 1980.
+
+\bibitem{davis2015long}
+L.~A. Davis and L.~Filip, ``How long does it take to develop and launch
+  government satellite systems?,'' {\em International Cost Estimating and
+  Analysis Association” AEROSPACE REPORT}, 2015.
+
+\bibitem{sonter2006asteroid}
+M.~Sonter, ``Asteroid mining: Key to space economy,'' {\em Retrieved on
+  August}, vol.~6, p.~2009, 2006.
+
+\bibitem{bottke2000understanding}
+W.~F. Bottke, R.~Jedicke, A.~Morbidelli, J.-M. Petit, and B.~Gladman,
+  ``Understanding the distribution of near-earth asteroids,'' {\em Science},
+  vol.~288, no.~5474, pp.~2190--2194, 2000.
+
+\bibitem{MarsExpl75:online}
+``Mars exploration timeline.''
+  \url{https://nssdc.gsfc.nasa.gov/planetary/chronology_mars.html}.
+\newblock (Accessed on 05/03/2019).
+
+\bibitem{ross2001near}
+S.~D. Ross, ``Near-earth asteroid mining,'' {\em Space}, pp.~1--24, 2001.
+
+\end{thebibliography}

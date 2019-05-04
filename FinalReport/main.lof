@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Flow diagram to give a round by round visualization of the game. As seen by the server. 201 rounds occur per game.\relax }}{4}
+\contentsline {figure}{\numberline {2}{\ignorespaces Graph showing the normalized base values of asteroids. Data points in this plot: 439,712.\relax }}{9}
+\contentsline {figure}{\numberline {3}{\ignorespaces Graph showing probability density distribution of tech won at the start of each round as well as the tech won after a successful auction win.\relax }}{10}
+\contentsline {figure}{\numberline {4}{\ignorespaces Graph showing the normalized unseen value of asteroids when exactly 20 tech is submitted. All x-axis values have been shifted down by five to correct for the tech function reward. Data points in this plot: 44,974.\relax }}{11}
+\contentsline {figure}{\numberline {5}{\ignorespaces Graph showing somthing.\relax }}{12}
+\contentsline {figure}{\numberline {6}{\ignorespaces Graph showing variation of mission failure tech per round. The function fitted is $e^{-1 * x * b} + c$\relax }}{13}
+\contentsline {figure}{\numberline {7}{\ignorespaces Graph showing standard error for each value in \ref {Figure}\relax }}{19}
